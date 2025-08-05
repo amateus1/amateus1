@@ -36,7 +36,7 @@ Whether it’s cloud automation in China’s regulated regions or embedding AI i
 
 I'm always open to collaborations on AI-for-DevOps initiatives, product design sprints, or bleeding-edge agentic systems. If you’re building something transformative—let’s chat!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hernanmateus) | ✉️ al@mateusit.com | 🌏 Based in Shenzhen, China
+🔗 [LinkedIn](https://www.linkedin.com/in/hernanmateus) | ✉️ al@mateusit.com | 🌏 Chat with my Career Agent: https://almateus.me
 
 ---
 
