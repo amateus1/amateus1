@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hernan (AI) Mateus
+# 👋 Hi, I'm Hernan (AI) Mateus  -> Chat with my AI Agent: https://almateus.me
 
 🚀 DevOps Product Owner | Solutions Architect | AI-Driven Consultant
 
@@ -7,6 +7,31 @@ Welcome to my GitHub! I’m a hands-on technology leader and consultant with ove
 Currently, I'm deep in the world of Agentic AI—engineering autonomous software development teams using multi-role AI agents to write, test, and deploy production-grade applications.
 
 Whether it’s cloud automation in China’s regulated regions or embedding AI into traditional delivery pipelines, I bring a unique blend of strategic vision and hands-on delivery to every engagement.
+
+---
+
+## 🧬 Selected Projects & Portfolio
+📂 Explore more here: [amateus1 on GitHub](https://github.com/amateus1)
+
+- **Agentic – CrewAI Engineering Team**  
+  Multi-agent AI + Azure DevOps + W&B for Scrum automation, using DeepSeek and OpenAI APIs.  
+  🔗 [GitHub Repo](https://github.com/amateus1/agentic-ai-scrum)
+
+- **ML – Employee Churn Prediction API**  
+  End-to-end ML demo (MLflow, Evidently, Heroku API, S3 frontend, Scikit-learn, FastAPI).  
+  🌐 [Live Demo](https://optimops.ai/employee-churn-demo-v3-pers.html)
+
+- **ML – Insurance Prediction App**  
+  CI/CD deployment (Streamlit, FastAPI, GitHub Actions, DagsHub, S3 frontend hosting).  
+  🔗 [GitHub Repo](https://github.com/amateus1/insurance_predict)
+
+- **Agentic – AI Resume Chatbot**  
+  LLM chatbot trained on my CV, multilingual (English, Mandarin, Spanish).  
+  🌐 [Chat Live](https://almateus.me)
+
+- **ML – Bank Customer Churn Prediction App**  
+  Streamlit + Scikit-learn ANN web app for predicting churn with TensorFlow models.  
+  🔗 [GitHub Repo](https://github.com/amateus1/bank_customer_churn_prediction)
 
 ---
 
@@ -19,11 +44,6 @@ Whether it’s cloud automation in China’s regulated regions or embedding AI i
   - Agentic AI Engineering by Ed Donner
   - LLM Engineering (7-week program)
   - Executive Briefing: GenAI & LLMs for Leaders
-- 🧠 **Recent AI Projects**:
-  - Resume Agent 🤖
-  - Bank Customer Churn Prediction 📉
-  - Insurance Cost Forecasting 💰
-  - Stack Trading Floor Simulation powered by multi-agent traders 💹
 - 🧪 **Experimenting with**:
   - [CrewAI](https://github.com/joaomdmoura/crewAI) for orchestrating autonomous developer agents
   - LLMOps pipelines that blend prompt engineering with traditional CI/CD
@@ -36,19 +56,9 @@ Whether it’s cloud automation in China’s regulated regions or embedding AI i
 
 I'm always open to collaborations on AI-for-DevOps initiatives, product design sprints, or bleeding-edge agentic systems. If you’re building something transformative—let’s chat!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hernanmateus) | ✉️ al@mateusit.com | 🌏 Chat with my Career Agent: https://almateus.me
-
----
-
-## 📌 Featured Projects
-
-Check out some of the exciting work I’m pushing to the edge:
-
-- **Autonomous Dev Team Agents** – multi-agent software team with zero-touch delivery
-- **Trading Agents** – autonomous stock traders testing reward systems in market simulations
-- **AI Resume Chatbot** – interactive chatbot that parses and explains resumes
-- **Customer Churn Predictors** – ML models for banks & insurers, ready for production deployment
+🔗 [LinkedIn](https://www.linkedin.com/in/hernanmateus) | ✉️ al@mateusit.com | 🌏 Chat with my AI Agent: https://almateus.me
 
 ---
 
 > _"DevOps isn’t just about speed—it’s about evolving with intelligence. That’s where AI steps in."_
+
