@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hernan (AI) Mateus  -> Chat with my AI Agent: https://almateus.me
+# 👋 Hi, I'm Hernan (AI) Mateus  
 
 🚀 DevOps Product Owner | Solutions Architect | AI-Driven Consultant
 
@@ -8,7 +8,7 @@ Currently, I'm deep in the world of Agentic AI—engineering autonomous software
 
 Whether it’s cloud automation in China’s regulated regions or embedding AI into traditional delivery pipelines, I bring a unique blend of strategic vision and hands-on delivery to every engagement.
 
----
+Chat with my AI Agent: https://almateus.me ---
 
 ## 🧬 Selected Projects & Portfolio
 📂 Explore more here: [amateus1 on GitHub](https://github.com/amateus1)
