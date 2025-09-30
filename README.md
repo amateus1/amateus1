@@ -36,6 +36,7 @@ Chat with my AI Agent: https://almateus.me ---
 - **SaaS - MediNotes Pro****
   AI-powered clinical documentation SaaS that transforms physician notes into professional summaries, actionable steps, and patient communications.
   Built with FastAPI, Next.js, OpenAI GPT, and AWS for HIPAA-compliant medical workflow automation.
+  🔗 [GitHub Repo](https://github.com/amateus1/SaaS_MediNotes_Pro).
 
 ---
 
