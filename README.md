@@ -33,6 +33,10 @@ Chat with my AI Agent: https://almateus.me ---
   Streamlit + Scikit-learn ANN web app for predicting churn with TensorFlow models.  
   🔗 [GitHub Repo](https://github.com/amateus1/bank_customer_churn_prediction)
 
+- **SaaS - MediNotes Pro****
+  AI-powered clinical documentation SaaS that transforms physician notes into professional summaries, actionable steps, and patient communications.
+  Built with FastAPI, Next.js, OpenAI GPT, and AWS for HIPAA-compliant medical workflow automation.
+
 ---
 
 ## ⚡ Rapid Fire
