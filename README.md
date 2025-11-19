@@ -13,7 +13,12 @@ Chat with my AI Agent: https://almateus.me ---
 ## 🧬 Selected Projects & Portfolio
 📂 Explore more here: [amateus1 on GitHub](https://github.com/amateus1)
 
-- **Agentic – CrewAI Engineering Team**  
+- **MLOps – Alex AI Financial Advisor**  
+  AI-Powered Portfolio Management & Financial Planning
+  Alex is an intelligent financial advisory platform that uses autonomous AI agents to provide comprehensive portfolio analysis, retirement planning, and investment optimization. 
+  🌐 [Live Demo](https://advisor.almateus.me/)
+
+  - **Agentic – CrewAI Engineering Team**  
   Multi-agent AI + Azure DevOps + W&B for Scrum automation, using DeepSeek and OpenAI APIs.  
   🔗 [GitHub Repo](https://github.com/amateus1/agentic-ai-scrum)
 
