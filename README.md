@@ -15,7 +15,7 @@ Chat with my AI Agent: https://almateus.me ---
 
 - **Agentic + MLOps – Alex AI Financial Advisor**  
   AI-Powered Portfolio Management & Financial Planning
-  Alex is an intelligent financial advisory platform that uses autonomous AI agents to provide comprehensive portfolio analysis, retirement planning, and investment optimization. 
+  Alex is an intelligent financial advisory platform that uses autonomous AI agents to provide comprehensive portfolio analysis, retirement planning, and investment optimization.
   🌐 [Live Demo](https://advisor.almateus.me/)
 
 - **Agentic – CrewAI Engineering Team**  
