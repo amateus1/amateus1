@@ -18,7 +18,7 @@ Chat with my AI Agent: https://almateus.me ---
   Alex is an intelligent financial advisory platform that uses autonomous AI agents to provide comprehensive portfolio analysis, retirement planning, and investment optimization. 
   🌐 [Live Demo](https://advisor.almateus.me/)
 
-  - **Agentic – CrewAI Engineering Team**  
+- **Agentic – CrewAI Engineering Team**  
   Multi-agent AI + Azure DevOps + W&B for Scrum automation, using DeepSeek and OpenAI APIs.  
   🔗 [GitHub Repo](https://github.com/amateus1/agentic-ai-scrum)
 
