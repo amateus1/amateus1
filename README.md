@@ -16,19 +16,15 @@ Chat with my AI Agent: https://almateus.me ---
 - **Agentic + MLOps – Alex AI Financial Advisor**  
   AI-Powered Portfolio Management & Financial Planning
   Alex is an intelligent financial advisory platform that uses autonomous AI agents to provide comprehensive portfolio analysis, retirement planning, and investment optimization.
-
   🌐 [Live Demo](https://advisor.almateus.me/)
+
+- **AI Agent Factory - Mass-Producing Professional AI Representatives** 
+  MyAIrep is an innovative SaaS platform that operates as an **AI Agent Factory**, transforming resumes into personalized AI representatives available 24/7.
+  🌐 [Live Factory Tour](https://myairep.io)
 
 - **Agentic – CrewAI Engineering Team**  
   Multi-agent AI + Azure DevOps + W&B for Scrum automation, using DeepSeek and OpenAI APIs.  
   🔗 [GitHub Repo](https://github.com/amateus1/agentic-ai-scrum)
-
-## AI Agent Factory - Mass-Producing Professional AI Representatives
-
-MyAIrep is an innovative SaaS platform that operates as an **AI Agent Factory**, transforming resumes into personalized AI representatives available 24/7.
-
-### Factory Demo
-🌐 [Live Factory Tour](https://myairep.io)
 
 - **ML – Employee Churn Prediction API**  
   End-to-end ML demo (MLflow, Evidently, Heroku API, S3 frontend, Scikit-learn, FastAPI).  
