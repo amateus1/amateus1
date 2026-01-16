@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Al Mateus  
 
-🚀 DevOps Product Owner | Solutions Architect | AI-Driven Consultant
+🚀 Lead AI Architect | Agentic | LLM Engineering | MLOPS | Creator of Agile 3.0
 
 Welcome to my GitHub! I’m a hands-on technology leader and consultant with over 15 years of global experience helping enterprises accelerate their digital transformation. I specialize in designing and implementing AI-driven DevOps strategies that unlock agility, scale, and innovation.
 
@@ -9,6 +9,23 @@ Currently, I'm deep in the world of Agentic AI—engineering autonomous software
 Whether it’s cloud automation in China’s regulated regions or embedding AI into traditional delivery pipelines, I bring a unique blend of strategic vision and hands-on delivery to every engagement.
 
 Chat with my AI Agent: https://almateus.me ---
+
+## 📘 **Agile 3.0: The Framework for Human+AI Agent Teams**
+
+> When AI agents complete 2-week sprints in **hours—not weeks**—traditional Agile breaks.  
+> **Agile 3.0** is the production-validated framework that fixes it.
+
+### **What It Solves:**
+- **Role Evolution:** PO → Prompt Architect, SM → AI Risk Manager, Developer → Agent Supervisor
+- **Process Adaptation:** Backlog → Prompt Library, DoD → AI Quality Gates
+- **Documented Results:** 80% faster delivery, 60% fewer deployment cycles, 99.8% inference reliability
+
+### **Get the Framework:**
+📄 **[Download Whitepaper](https://agile-3.optimops.ai)**  
+🎥 **[See Demo](https://d3tboj6xdxb3hs.cloudfront.net/videos/Crewaai-Azuredo-Agile-Integration-V7.mp4)**  
+💬 **[Join Discussion](https://www.linkedin.com/feed/update/urn:li:activity:7207982548564684800/)**
+
+---
 
 ## 🧬 Selected Projects & Portfolio
 📂 Explore more here: [amateus1 on GitHub](https://github.com/amateus1)
