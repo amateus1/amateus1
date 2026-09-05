@@ -10,7 +10,7 @@ Whether it’s cloud automation in China’s regulated regions or embedding AI i
 
 Chat with my AI Agent: https://almateus.me ---
 
-## 📘 **Agile 3.0: The Framework for Human+AI Agent Teams**
+## 📘 **LeanFlow 3.0: The Framework for Human+AI Agent Teams**
 
 > When AI agents complete 2-week sprints in **hours—not weeks**—traditional Agile breaks.  
 > **Agile 3.0** is the production-validated framework that fixes it.
@@ -30,18 +30,18 @@ Chat with my AI Agent: https://almateus.me ---
 ## 🧬 Selected Projects & Portfolio
 📂 Explore more here: [amateus1 on GitHub](https://github.com/amateus1)
 
-- **Agentic + MLOps – Alex AI Financial Advisor**  
+- **Agentic + MLOps – WealthForge Financial Advisor**  
   AI-Powered Portfolio Management & Financial Planning
   Alex is an intelligent financial advisory platform that uses autonomous AI agents to provide comprehensive portfolio analysis, retirement planning, and investment optimization.
   
-  🌐 [Live Demo](https://advisor.almateus.me/)
+  🌐 [Live Demo](https://wealthforge.optimops.ai)
 
 - **AI Agent Factory - Mass-Producing Professional AI Representatives** 
   MyAIrep is an innovative SaaS platform that operates as an **AI Agent Factory**, transforming resumes into personalized AI representatives available 24/7.
 
   🌐 [Live Factory Tour](https://myairep.io)
 
-- **Agentic – CrewAI Engineering Team**  
+- **Agentic – CrewSync Engineering Team**  
   Multi-agent AI + Azure DevOps + W&B for Scrum automation, using DeepSeek and OpenAI APIs.  
   🔗 [GitHub Repo](https://github.com/amateus1/agentic-ai-scrum)
 
