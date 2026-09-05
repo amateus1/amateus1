@@ -68,18 +68,19 @@ Chat with my AI Agent: https://almateus.me ---
 
 ---
 
-## ⚡ Rapid Fire
+## ⚡ Current Focus
+**CrewSync — Voice-Enabled Agentic Teams for Azure DevOps**
+- Autonomous SWE, Scrum Master, and Product Owner agents triggered by a single webhook
+- **Voice-enabled Scrum Master 3.0** — reads real-time status updates aloud via ElevenLabs
+- 80% faster delivery, 60% fewer deployment cycles, full cost transparency ($0.04 per run)
 
-- 💼 **Currently working on**:
-  - Building an **Autonomous Agentic Software Engineering Team** for a financial services client—agents collaborate as Lead Designer, Python Dev, Frontend, Backend & Tester to ship a complete app 🚀
-  - Helping a client **evolve Agile practices** to seamlessly integrate human-AI hybrid teams into their workflows
-- 🎓 **Completed Courses**:
-  - Agentic AI Engineering by Ed Donner
-  - LLM Engineering (7-week program)
-  - Executive Briefing: GenAI & LLMs for Leaders
-- 🧪 **Experimenting with**:
-  - [CrewAI](https://github.com/joaomdmoura/crewAI) for orchestrating autonomous developer agents
-  - LLMOps pipelines that blend prompt engineering with traditional CI/CD
+**LeanFlow 3.0 — Framework for Human+Agent Agile Delivery**
+- Production-validated framework for hybrid teams (10,000+ downloads)
+- Role evolution: PO → Prompt Architect, SM → AI Risk Manager, Developer → Agent Supervisor
+
+**Current Client Work**
+- Architecting agentic workflows for financial services enterprises
+- Helping Fortune 500 clients transition to hybrid human+agent teams
 - ☁️ **Cloud & AI Stack**:
   - Azure | AWS | Alibaba Cloud | Docker | Kubernetes | OpenAI API | Terraform | CrewAI | Python | LangChain
 
