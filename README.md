@@ -13,7 +13,7 @@ Chat with my AI Agent: https://almateus.me ---
 ## 📘 **LeanFlow 3.0: The Framework for Human+AI Agent Teams**
 
 > When AI agents complete 2-week sprints in **hours—not weeks**—traditional Agile breaks.  
-> **Agile 3.0** is the production-validated framework that fixes it.
+> **LeanFlow 3.0** is the production-validated framework that fixes it.
 
 ### **What It Solves:**
 - **Role Evolution:** PO → Prompt Architect, SM → AI Risk Manager, Developer → Agent Supervisor
