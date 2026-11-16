@@ -1,16 +1,36 @@
 # 👋 Hi, I'm Al Mateus  
 
-🚀 Lead AI Architect | Agentic | LLM Engineering | MLOPS | Creator of Agile 3.0
+🚀 **Director, Forward Deployed Agentic & LLM Engineering** | Agentic Red Teaming | MLOps | Delivering AI P&L Value
 
-Welcome to my GitHub! I’m a hands-on technology leader and consultant with over 15 years of global experience helping enterprises accelerate their digital transformation. I specialize in designing and implementing AI-driven DevOps strategies that unlock agility, scale, and innovation.
+Welcome to my GitHub! I’m a hands-on technology leader and consultant with over 15 years of global experience helping enterprises accelerate their digital transformation. I specialize in designing and implementing AI-driven architectures that unlock agility, scale, and secure innovation.
 
-Currently, I'm deep in the world of Agentic AI—engineering autonomous software development teams using multi-role AI agents to write, test, and deploy production-grade applications.
+Currently, I'm deep in the world of Agentic AI—engineering autonomous software development teams, building **Adversarial Red Teaming** gates to eliminate builder's bias, and deploying production-grade applications that drive measurable business value.
 
 Whether it’s cloud automation in China’s regulated regions or embedding AI into traditional delivery pipelines, I bring a unique blend of strategic vision and hands-on delivery to every engagement.
 
-Chat with my AI Agent: https://almateus.me ---
+Chat with my AI Agent: [https://almateus.me](https://almateus.me)
 
-## 📘 **LeanFlow 3.0: The Framework for Human+AI Agent Teams**
+---
+
+## 📚 Research & Publications
+
+I publish empirical research on AI governance, model churn, and adversarial testing for enterprise systems.
+
+- **The Future of Agentic Red Teaming: 4 Lessons from Benchmarking US vs. CN Model Swarms**  
+  A controlled ablation study proving that heterogeneous model swarms (e.g., DeepSeek auditing US code) catch critical logic exploits that same-family models miss.  
+  📄 [Read the Research](https://www.optimops.ai/research/adv-4-lessons)
+
+- **Why Enterprise AI Needs Adversarial Testing (And How We Built One)**  
+  A deep dive into building an independent LLM Red Team that caught a critical "Infinite Money Glitch" (a NaN bypass exploit) before it hit production.  
+  📄 [Read the Research](https://www.optimops.ai/research/adv-enterprise)
+
+- **LLM Model Churn: By the Time You Test a Model, It's Already Retired**  
+  Why enterprises need model-agnostic architectures and automated testing frameworks to stop chasing benchmarks.  
+  📄 [Read the Research](https://www.optimops.ai/research/model-churn)
+
+---
+
+## 📘 LeanFlow 3.0: The Framework for Human+AI Agent Teams
 
 > When AI agents complete 2-week sprints in **hours—not weeks**—traditional Agile breaks.  
 > **LeanFlow 3.0** is the production-validated framework that fixes it.
@@ -28,47 +48,35 @@ Chat with my AI Agent: https://almateus.me ---
 ---
 
 ## 🧬 Selected Projects & Portfolio
-📂 Explore more here: [amateus1 on GitHub](https://github.com/amateus1)
 
 - **Agentic + MLOps – WealthForge Financial Advisor**  
-  AI-Powered Portfolio Management & Financial Planning
-  Alex is an intelligent financial advisory platform that uses autonomous AI agents to provide comprehensive portfolio analysis, retirement planning, and investment optimization.
-  
+  AI-Powered Portfolio Management & Financial Planning. WealthForge is an intelligent financial advisory platform that uses autonomous AI agents to provide comprehensive portfolio analysis, retirement planning, and investment optimization.
   🌐 [Live Demo](https://wealthforge.optimops.ai)
 
-- **AI Agent Factory - Mass-Producing Professional AI Representatives** 
-  MyAIrep is an innovative SaaS platform that operates as an **AI Agent Factory**, transforming resumes into personalized AI representatives available 24/7.
+- **Agentic – CrewSync Engineering Team**  
+  Multi-agent AI + Azure DevOps + W&B for Scrum automation. Features an independent Adversarial Red Team gatekeeper (DeepSeek V4 Pro) that halts deployments and triggers Human-in-the-Loop review if a critical flaw is found.
+  🔗 [Explore CrewSync](https://www.optimops.ai/solutions/crewsync)
 
+- **AI Agent Factory – MyAIrep**  
+  An innovative SaaS platform that operates as an **AI Agent Factory**, transforming resumes into personalized AI representatives available 24/7.
   🌐 [Live Factory Tour](https://myairep.io)
 
-- **Agentic – CrewSync Engineering Team**  
-  Multi-agent AI + Azure DevOps + W&B for Scrum automation, using DeepSeek and OpenAI APIs.  
-  🔗 [GitHub Repo](https://github.com/amateus1/agentic-ai-scrum)
-
-- **ML – Employee Churn Prediction API**  
-  End-to-end ML demo (MLflow, Evidently, Heroku API, S3 frontend, Scikit-learn, FastAPI).  
-  🌐 [Live Demo](https://optimops.ai/employee-churn-demo-v3-pers.html)
-
-- **ML – Insurance Prediction App**  
-  CI/CD deployment (Streamlit, FastAPI, GitHub Actions, DagsHub, S3 frontend hosting).  
-  🔗 [GitHub Repo](https://github.com/amateus1/insurance_predict)
-
 - **Agentic – AI Resume Chatbot**  
-  LLM chatbot trained on my CV, multilingual (English, Mandarin, Spanish).  
+  LLM chatbot trained on my CV, multilingual (English, Mandarin, Spanish).
   🌐 [Chat Live](https://almateus.me)
 
-- **ML – Bank Customer Churn Prediction App**  
-  Streamlit + Scikit-learn ANN web app for predicting churn with TensorFlow models.  
-  🔗 [GitHub Repo](https://github.com/amateus1/bank_customer_churn_prediction)
-
-- **SaaS - MediNotes Pro****
-  AI-powered clinical documentation SaaS that transforms physician notes into professional summaries, actionable steps, and patient communications.
-  Built with FastAPI, Next.js, OpenAI GPT, and AWS for HIPAA-compliant medical workflow automation.
-  🔗 [GitHub Repo](https://github.com/amateus1/SaaS_MediNotes_Pro).
+- **SaaS - MediNotes Pro**  
+  AI-powered clinical documentation SaaS that transforms physician notes into professional summaries, actionable steps, and patient communications. Built with FastAPI, Next.js, OpenAI GPT, and AWS for HIPAA-compliant medical workflow automation.
+  🔗 [GitHub Repo](https://github.com/amateus1/SaaS_MediNotes_Pro)
 
 ---
 
 ## ⚡ Current Focus
+
+**Agentic Red Teaming & Harness Architecture**
+- Designing heterogeneous swarms where rival model families (US vs. CN) audit each other's code to eliminate blind spots.
+- Building HITL (Human-in-the-Loop) sandboxes for enterprise security validation.
+
 **CrewSync — Voice-Enabled Agentic Teams for Azure DevOps**
 - Autonomous SWE, Scrum Master, and Product Owner agents triggered by a single webhook
 - **Voice-enabled Scrum Master 3.0** — reads real-time status updates aloud via ElevenLabs
@@ -81,8 +89,7 @@ Chat with my AI Agent: https://almateus.me ---
 **Current Client Work**
 - Architecting agentic workflows for financial services enterprises
 - Helping Fortune 500 clients transition to hybrid human+agent teams
-- ☁️ **Cloud & AI Stack**:
-  - Azure | AWS | Alibaba Cloud | Docker | Kubernetes | OpenAI API | Terraform | CrewAI | Python | LangChain
+- ☁️ **Cloud & AI Stack**: Azure | AWS | Alibaba Cloud | Docker | Kubernetes | OpenAI API | Terraform | CrewAI | Python | LangChain
 
 ---
 
@@ -90,9 +97,8 @@ Chat with my AI Agent: https://almateus.me ---
 
 I'm always open to collaborations on AI-for-DevOps initiatives, product design sprints, or bleeding-edge agentic systems. If you’re building something transformative—let’s chat!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hernanmateus) | ✉️ al@mateusit.com | 🌏 Chat with my AI Agent: https://almateus.me
+🔗 [LinkedIn](https://www.linkedin.com/in/al-mateus) | ✉️ al@mateusit.com | 🌏 Chat with my AI Agent: [https://almateus.me](https://almateus.me)
 
 ---
 
 > _"DevOps isn’t just about speed—it’s about evolving with intelligence. That’s where AI steps in."_
-
