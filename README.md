@@ -97,7 +97,7 @@ I publish empirical research on AI governance, model churn, and adversarial test
 
 I'm always open to collaborations on AI-for-DevOps initiatives, product design sprints, or bleeding-edge agentic systems. If you’re building something transformative—let’s chat!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/al-mateus) | ✉️ al@mateusit.com | 🌏 Chat with my AI Agent: [https://almateus.me](https://almateus.me)
+🔗 [LinkedIn](https://www.linkedin.com/in/al-mateus) | ✉️ al@optimops.ai | 🌏 Chat with my AI Agent: [https://almateus.me](https://almateus.me)
 
 ---
 
